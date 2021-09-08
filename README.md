@@ -30,8 +30,7 @@ My name is Vinesh Kumar and I'm a UI Developer . I'm from India, living in Kolka
 
 ![](https://img.shields.io/badge/<CSS3>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on UI Development
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on UI Development ( Angular )
 - 👯 I’m looking to collaborate on ReactJS
 - ⚡ Fun fact: Coder with a smiling face .
 
